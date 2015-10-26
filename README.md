@@ -11,6 +11,6 @@ This repository is designed to be a unified set of tools for MEP-related design 
 
 ##Electrical
 **Wire Ampacity**
-Breaker Sizing
-Interrupt Capacity Sizing
-*NEC Rules* checking
+* Breaker Sizing
+* Interrupt Capacity Sizing
+* *NEC Rules* checking
